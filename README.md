@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @rowmatrix
-- 👀 I’m interested in security systems, operating systems, and systems programming.
-- 🌱 I’m currently learning C, C++, Go, Rust, Linux, Docker
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🛰️ Background: 5 yrs NASA JPL + Raytheon | EEE Components | Radiation Effects
+- ⚡ Now: Building at the intersection of physics, data engineering, and AI
+- 🔭 Interests: EM simulation, ML for hardware reliability, agentic AI systems
+- 🧮 Alias: rowmatrix – because everything reduces to linear algebra
 
 <!---
 rowmatrix/rowmatrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
